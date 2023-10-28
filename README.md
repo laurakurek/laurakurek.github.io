@@ -5,9 +5,11 @@ Prior to starting my PhD, I worked in industry for several years as a data scien
 
 I graduated from Georgetown University in 2016 with a degree in Science, Technology, & International Affairs and a certificate in Russian, Eurasian, and Eastern European Studies.
 
-### Updates:
+### Updates
 
 October 2023 - Attended CSCW 2023 in Minneapolis
+
+September 2023 - Virtually attended the European Union Joint Research Center Disinformation Workshop
 
 July 2023 - Attended ACL 2023 in Toronto
 
