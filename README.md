@@ -11,6 +11,8 @@ October 2023 - Attended CSCW 2023 in Minneapolis
 
 July 2023 - Attended ACL 2023 in Toronto
 
+May 2023 - Pre-candidacy paper proposal approved
+
 August 2022 - Started a PhD in Information Science at the University of Michigan
 
 
