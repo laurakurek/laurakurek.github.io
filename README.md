@@ -3,7 +3,7 @@ I am a 2nd year PhD student advised by <a href="https://www.si.umich.edu/people/
 
 Prior to starting my PhD, I worked in industry for several years as a data science specialist at Accenture Federal Services. In 2017, I spent a year in the Ural Mountains on a Fulbright Scholarship.
 
-I graduated from Georgetown University in 2016 with a degree in Science, Technology, & International Affairs and a certificate in Russian, Eurasian, and Eastern European Studies.
+I graduated from Georgetown University in 2016 with a B.S. degree in Science, Technology, & International Affairs and a certificate in Russian, Eurasian, and Eastern European Studies.
 
 ### Updates
 
