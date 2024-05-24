@@ -4,20 +4,28 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a 2nd year PhD student advised by [Ceren Budak](https://www.si.umich.edu/people/ceren-budak) and [Eric Gilbert]([url](http://eegilbert.org/)) at the University of Michigan in the School of Information. I research d/misinformation and other types of manipulation on the internet using both quantitative and qualitative methods.
+
+Prior to starting my PhD, I worked in industry for several years as a data science specialist at Accenture Federal Services. In 2017, I spent a year in the Ural Mountains on a Fulbright Scholarship.
+
+## Education
+
+- Ph.D. in **Information**, School of Information, University of Michigan, 2027 (expected)
+- B.S. in **Science, Technology, & International Affairs**, School of Foreign Service, Georgetown, 2016
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **D/misinformation**
+- **Social Computing**
+- **Computational Social Science**
 
-## News
+## Updates
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+- **[June 2024]** Will be attending the ICWSM '24 Digital Disinfo Workshop in Buffalo
+- **[May 2024]** Accepted a summer internship at the Center for Democracy and Technology in DC
+- **[February 2024]** Defended and passed the pre-candancy milestone
+- **[October 2023]** Attended CSCW 2023 in Minneapolis
+- **[Sept 2023]** Virtually attended the European Union Joint Research Center Disinformation Workshop
+- **[July 2023]** Attended ACL 2023 in Toronto
+- **[May 2023]** Pre-candidacy paper proposal approved
+- **[August 2022]** Started a PhD in Information Science at the University of Michigan
