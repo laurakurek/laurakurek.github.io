@@ -10,14 +10,14 @@ Prior to starting my PhD, I worked in industry for several years as a data scien
 
 ## Education
 
-- Ph.D. in **Information**, [School of Information](https://www.si.umich.edu/), [University of Michigan](https://umich.edu/), 2027 (expected)
+- Ph.D. in **Information**, [School of Information](https://www.si.umich.edu/), [University of Michigan](https://umich.edu/), 2027 _(expected)_
 - B.S. in **Science, Technology, & International Affairs**, [School of Foreign Service](https://sfs.georgetown.edu/), [Georgetown University](https://www.georgetown.edu/), 2016
 
 ## Research Interests
 
-- **D/misinformation**
-- **Social Computing**
-- **Computational Social Science**
+- D/misinformation
+- Social Computing
+- Computational Social Science
 
 ## Updates
 
@@ -25,7 +25,7 @@ Prior to starting my PhD, I worked in industry for several years as a data scien
 - **[May 2024]** Accepted a summer internship at the Center for Democracy and Technology in DC
 - **[February 2024]** Defended and passed the pre-candancy milestone
 - **[October 2023]** Attended CSCW 2023 in Minneapolis
-- **[Sept 2023]** Virtually attended the European Union Joint Research Center Disinformation Workshop
+- **[Sept 2023]** Virtually attended the EU Joint Research Center Disinformation Workshop
 - **[July 2023]** Attended ACL 2023 in Toronto
 - **[May 2023]** Pre-candidacy paper proposal approved
 - **[August 2022]** Started a PhD in Information Science at the University of Michigan
