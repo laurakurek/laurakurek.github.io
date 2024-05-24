@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a 2nd year PhD student advised by [Ceren Budak](https://www.si.umich.edu/people/ceren-budak) and [Eric Gilbert](http://eegilbert.org/) at the University of Michigan in the School of Information. I research d/misinformation and other types of manipulation on the internet using both quantitative and qualitative methods.
+I am a 2nd year Ph.D. student advised by [Ceren Budak](https://www.si.umich.edu/people/ceren-budak) and [Eric Gilbert](http://eegilbert.org/) at the University of Michigan in the School of Information. I research d/misinformation and other types of manipulation on the internet using both quantitative and qualitative methods.
 
-Prior to starting my PhD, I worked in industry for several years as a data science specialist at Accenture Federal Services. In 2017, I spent a year in the Ural Mountains on a Fulbright Scholarship.
+Prior to starting my Ph.D., I worked in industry for several years as a data science specialist at Accenture Federal Services. In 2017, I spent a year in the Ural Mountains on a Fulbright Scholarship.
 
 ## Education
 
@@ -25,7 +25,7 @@ Prior to starting my PhD, I worked in industry for several years as a data scien
 - **[May 2024]** Accepted a summer internship at the Center for Democracy and Technology in DC
 - **[February 2024]** Defended and passed the pre-candancy milestone
 - **[October 2023]** Attended CSCW 2023 in Minneapolis
-- **[Sept 2023]** Virtually attended the EU Joint Research Center Disinformation Workshop
+- **[September 2023]** Virtually attended the EU Joint Research Center Disinformation Workshop
 - **[July 2023]** Attended ACL 2023 in Toronto
 - **[May 2023]** Pre-candidacy paper proposal approved
 - **[August 2022]** Started a PhD in Information Science at the University of Michigan
