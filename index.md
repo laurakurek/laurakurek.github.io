@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a 2nd year PhD student advised by [Ceren Budak](https://www.si.umich.edu/people/ceren-budak) and [Eric Gilbert]([url](http://eegilbert.org/)) at the University of Michigan in the School of Information. I research d/misinformation and other types of manipulation on the internet using both quantitative and qualitative methods.
+I am a 2nd year PhD student advised by [Ceren Budak](https://www.si.umich.edu/people/ceren-budak) and [Eric Gilbert](http://eegilbert.org/) at the University of Michigan in the School of Information. I research d/misinformation and other types of manipulation on the internet using both quantitative and qualitative methods.
 
 Prior to starting my PhD, I worked in industry for several years as a data science specialist at Accenture Federal Services. In 2017, I spent a year in the Ural Mountains on a Fulbright Scholarship.
 
 ## Education
 
-- Ph.D. in **Information**, School of Information, University of Michigan, 2027 (expected)
-- B.S. in **Science, Technology, & International Affairs**, School of Foreign Service, Georgetown, 2016
+- Ph.D. in **Information**, [School of Information](https://www.si.umich.edu/), [University of Michigan](https://umich.edu/), 2027 (expected)
+- B.S. in **Science, Technology, & International Affairs**, [School of Foreign Service](https://sfs.georgetown.edu/), [Georgetown University](https://www.georgetown.edu/), 2016
 
 ## Research Interests
 
@@ -21,7 +21,7 @@ Prior to starting my PhD, I worked in industry for several years as a data scien
 
 ## Updates
 
-- **[June 2024]** Will be attending the ICWSM '24 Digital Disinfo Workshop in Buffalo
+- **[June 2024]** Workshop paper accepted to ICWSM '24 Digital Disinfo Workshop in Buffalo
 - **[May 2024]** Accepted a summer internship at the Center for Democracy and Technology in DC
 - **[February 2024]** Defended and passed the pre-candancy milestone
 - **[October 2023]** Attended CSCW 2023 in Minneapolis
