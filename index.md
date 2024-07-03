@@ -21,12 +21,12 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
 
 ## Updates
 
-- **June 2024:** Started a tech policy internship at the Center for Democracy and Technology
-- **[May 2024]** Workshop paper accepted to Wiki Workshop '24, Knowledge Integrity track
-- **[April 2024]** Workshop paper accepted to ICWSM '24 Digital Disinfo Workshop
-- **[February 2024]** Defended and passed the pre-candancy milestone
-- **[October 2023]** Attended CSCW '23 in Minneapolis
-- **[September 2023]** Virtually attended the EU Joint Research Center Disinformation Workshop
-- **[July 2023]** Attended ACL '23 in Toronto
-- **[May 2023]** Pre-candidacy paper proposal approved
-- **[August 2022]** Started a Ph.D. in Information at the University of Michigan
+- **June 2024:** Started a tech policy internship at the [Center for Democracy and Technology](url)
+- **May 2024:** Workshop paper accepted to Wiki Workshop '24, Knowledge Integrity track
+- **April 2024:** Workshop paper accepted to ICWSM '24 Digital Disinfo Workshop
+- **February 2024:** Defended and passed the pre-candancy milestone
+- **October 2023:** Attended CSCW '23 in Minneapolis
+- **September 2023:** Virtually attended the EU Joint Research Center Disinformation Workshop
+- **July 2023:** Attended ACL '23 in Toronto
+- **May 2023:** Pre-candidacy paper proposal approved
+- **August 2022:** Started a Ph.D. in Information at the University of Michigan
