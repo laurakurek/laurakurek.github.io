@@ -16,7 +16,7 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
 - B.S. in **Science, Technology, & International Affairs**, [Georgetown University](https://www.georgetown.edu/), 2016
 
 ## Publications
-Wikipedia in Wartime: Experiences of Wikipedians Maintaining Articles About the Russia-Ukraine War <br>
+_Wikipedia in Wartime: Experiences of Wikipedians Maintaining Articles About the Russia-Ukraine War_ <br>
 **Laura Kurek**, Ceren Budak, & Eric Gilbert <br>
 Proceedings of the ACM on Human-Computer Interaction (CSCW 2025) [PDF](https://arxiv.org/pdf/2409.02304)
 
