@@ -4,24 +4,26 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student advised by [Ceren Budak](https://www.si.umich.edu/people/ceren-budak) and [Eric Gilbert](http://eegilbert.org/) at the University of Michigan in the School of Information. I research d/misinformation and other types of manipulation on the internet using both quantitative and qualitative methods.
+I am a Ph.D. candidate advised by [Ceren Budak](https://www.si.umich.edu/people/ceren-budak) and [Eric Gilbert](http://eegilbert.org/) at the University of Michigan in the School of Information. I research d/misinformation and other types of manipulation on the internet using both quantitative and qualitative methods.
 
 Prior to starting my Ph.D., I worked in industry for several years as a data science specialist at Accenture Federal Services. In 2017, I spent a year in the Ural Mountains on a Fulbright Scholarship.
+
+**Research interests:** D/misinformation, social computing, computational social science
 
 ## Education
 
 - Ph.D. in **Information**, [School of Information](https://www.si.umich.edu/), [University of Michigan](https://umich.edu/), 2027 _(expected)_
 - B.S. in **Science, Technology, & International Affairs**, [Georgetown University](https://www.georgetown.edu/), 2016
 
-## Research Interests
-
-- D/misinformation
-- Social Computing
-- Computational Social Science
+## Publications
+Wikipedia in Wartime: Experiences of Wikipedians Maintaining Articles About the Russia-Ukraine War
+Laura Kurek, Ceren Budak, & Eric Gilbert
+Proceedings of the ACM on Human-Computer Interaction (CSCW 2025) [PDF] (https://arxiv.org/pdf/2409.02304)
 
 ## Updates
 
-- **June 2024:** Started a tech policy internship at the [Center for Democracy and Technology](url)
+- **Oct 2024:** Defended and passed the field preliminary milestone
+- **June-Aug 2024:** Tech policy internship at the [Center for Democracy and Technology](url)
 - **May 2024:** Workshop paper accepted to [Wiki Workshop '24](url), Knowledge Integrity track
 - **April 2024:** Workshop paper accepted to [ICWSM '24](url), Digital Disinfo workshop
 - **February 2024:** Defended and passed the pre-candancy milestone
