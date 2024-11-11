@@ -17,6 +17,9 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
 
 {% include_relative _includes/publications.md %}
 
+Other writings:
+- [Kurek, L., Harper, T., Bhatia, A., & Marechal, N. (2024).](https://cdt.org/insights/report-rules-of-the-road-political-advertising-on-social-media-in-the-2024-u-s-election/) Rules of the Road: Political Advertising on Social Media in the 2024 U.S. Election. Center for Democracy & Technology. 
+
 ## Updates
 
 - **Oct 2024:** Defended and passed the field preliminary milestone
