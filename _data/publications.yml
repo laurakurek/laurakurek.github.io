@@ -3,7 +3,7 @@ main:
   - title: "Wikipedia in Wartime: Experiences of Wikipedians Maintaining Articles About the Russia-Ukraine War"
     authors: <strong>Laura Kurek</strong>, Ceren Budak, Eric Gilbert
     conference_short: CSCW
-    conference: Proceedings of the ACM on Human-Computer Interaction <strong>CSCW</strong>, 2025)
+    conference: Proceedings of the ACM on Human-Computer Interaction (CSCW 2025)
     pdf: https://arxiv.org/pdf/2409.02304
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
