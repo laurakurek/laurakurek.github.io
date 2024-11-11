@@ -15,7 +15,6 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
 - Ph.D. in **Information**, [School of Information](https://www.si.umich.edu/), [University of Michigan](https://umich.edu/), 2027 _(expected)_
 - B.S. in **Science, Technology, & International Affairs**, [Georgetown University](https://www.georgetown.edu/), 2016
 
-## Publications
 {% include_relative _includes/publications.md %}
 
 ## Updates
