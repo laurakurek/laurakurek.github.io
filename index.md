@@ -23,9 +23,9 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
 ## Updates
 
 - **Oct 2024:** Defended and passed the field preliminary milestone
-- **June-Aug 2024:** Tech policy internship at the [Center for Democracy and Technology](url)
-- **May 2024:** Workshop paper accepted to [Wiki Workshop '24](url), Knowledge Integrity track
-- **April 2024:** Workshop paper accepted to [ICWSM '24](url), Digital Disinfo workshop
+- **June-Aug 2024:** Tech policy internship at the [Center for Democracy and Technology](https://cdt.org/)
+- **May 2024:** Workshop paper accepted to [Wiki Workshop '24](https://wikiworkshop.org/2024/), Knowledge Integrity track
+- **April 2024:** Workshop paper accepted to [ICWSM '24](https://www.icwsm.org/2024/index.html/), Digital Disinfo workshop
 - **February 2024:** Defended and passed the pre-candancy milestone
 - **October 2023:** Attended CSCW '23 in Minneapolis
 - **September 2023:** Virtually attended the EU Joint Research Center Disinformation Workshop
