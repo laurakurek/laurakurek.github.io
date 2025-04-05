@@ -6,12 +6,12 @@ main:
     pdf: https://arxiv.org/pdf/2409.02304
 
   - title: "Outsourcing an Information Operation: A Complete Dataset of Tenet Media's Podcasts on Rumble"
-      authors: <strong>Laura Kurek</strong>, Eric Gilbert, Ceren Budak
-      pdf: https://arxiv.org/abs/2503.19802
+    authors: <strong>Laura Kurek</strong>, Eric Gilbert, Ceren Budak
+    pdf: https://arxiv.org/abs/2503.19802
 
   - title: "Seeing Like an AI: How LLMs Apply (and Misapply) Wikipedia Neutrality Norms"
-      authors: Joshua Ashkinaze, Ruijia Guan, <strong>Laura Kurek</strong>, Eytan Adar, Ceren Budak, Eric Gilbert
-      pdf: https://arxiv.org/abs/2503.19802
+    authors: Joshua Ashkinaze, Ruijia Guan, <strong>Laura Kurek</strong>, Eytan Adar, Ceren Budak, Eric Gilbert
+    pdf: https://arxiv.org/abs/2503.19802
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   #   conference_short: CVPR
