@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate advised by [Ceren Budak](https://www.si.umich.edu/people/ceren-budak) and [Eric Gilbert](http://eegilbert.org/) at the University of Michigan in the School of Information. I research d/misinformation and other types of manipulation on the internet using both quantitative and qualitative methods.
+I am a Ph.D. candidate advised by [Ceren Budak](https://www.si.umich.edu/people/ceren-budak) and [Eric Gilbert](http://eegilbert.org/) at the University of Michigan in the School of Information. I research information manipulation on the internet using both quantitative and qualitative methods. I work with data from social media platforms (X/Twitter, Rumble, Telegram) as well as peer-production knowledge sites (Wikipedia).
 
 Prior to starting my Ph.D., I worked in industry for several years as a data science specialist at Accenture Federal Services. In 2017, I spent a year in the Ural Mountains on a Fulbright Scholarship.
 
-**Research interests:** D/misinformation, social computing, computational social science
+**Research interests:** Social computing, computational social science
 
 ## Education
 
