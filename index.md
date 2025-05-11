@@ -19,11 +19,11 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
 
 - **April 2025:** Poster presentation accepted into [IC2S2 '25](https://ic2s2-2025.org/) 
 - **Dec 2024:** Full paper accepted into [CSCW '25](https://cscw.acm.org/2025/) 
-- **Oct 2024:** Defended and passed the field preliminary milestone
+- **Oct 2024:** Succesfully defended the field preliminary milestone, advanced to candidacy
 - **June-Aug 2024:** Tech policy internship at the [Center for Democracy and Technology](https://cdt.org/)
 - **May 2024:** Workshop paper accepted to [Wiki Workshop '24](https://wikiworkshop.org/2024/), Knowledge Integrity track
 - **April 2024:** Workshop paper accepted to [ICWSM '24](https://www.icwsm.org/2024/index.html/), Digital Disinfo workshop
-- **February 2024:** Defended and passed the pre-candancy milestone
+- **February 2024:** Succesfully defended the pre-candancy milestone
 - **October 2023:** Attended CSCW '23 in Minneapolis
 - **September 2023:** Virtually attended the EU Joint Research Center Disinformation Workshop
 - **July 2023:** Attended ACL '23 in Toronto
