@@ -25,7 +25,6 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
 - **April 2024:** Workshop paper accepted to [ICWSM '24](https://www.icwsm.org/2024/index.html/), Digital Disinfo workshop
 - **February 2024:** Succesfully defended the pre-candancy milestone
 - **October 2023:** Attended CSCW '23 in Minneapolis
-- **September 2023:** Virtually attended the EU Joint Research Center Disinformation Workshop
 - **July 2023:** Attended ACL '23 in Toronto
 - **May 2023:** Pre-candidacy paper proposal approved
 - **August 2022:** Started a Ph.D. in Information at the University of Michigan
