@@ -17,7 +17,7 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
 
 ## Updates
 
-- **October 2025:** At CSCW '25, I will be co-organizing a [workshop](https://cscw2025infodisorder.netlify.app/) on information disorder and preseting a [paper](https://dl.acm.org/doi/10.1145/3711107)!
+- **October 2025:** At [CSCW '25](https://cscw.acm.org/2025/), I will be co-organizing a [workshop](https://cscw2025infodisorder.netlify.app/) on information disorder and preseting a [paper](https://dl.acm.org/doi/10.1145/3711107)!
 - **August 2025:** Poster presentation at [PolNet-PaCSS '25](https://sites.google.com/view/confpolinetworks/)
 - **July 2025:** Poster presentation at [IC2S2 '25](https://ic2s2-2025.org/) 
 - **Dec 2024:** Our paper [Wikipedia in Wartime](https://dl-acm-org.proxy.lib.umich.edu/doi/10.1145/3711107) was accepted into [CSCW '25](https://cscw.acm.org/2025/) 
@@ -26,10 +26,15 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
 - **May 2024:** Workshop paper accepted to [Wiki Workshop '24](https://wikiworkshop.org/2024/), Knowledge Integrity track
 - **April 2024:** Workshop paper accepted to [ICWSM '24](https://www.icwsm.org/2024/index.html/), Digital Disinfo workshop
 - **February 2024:** Succesfully defended the pre-candancy milestone
-- **October 2023:** Attended CSCW '23 in Minneapolis
-- **July 2023:** Attended ACL '23 in Toronto
-- **May 2023:** Pre-candidacy paper proposal approved
-- **August 2022:** Started a Ph.D. in Information at the University of Michigan
+<details>
+<summary><strong>Earlier updates</strong></summary>
+  <ul> 
+  <li><strong>October 2023:</strong> Attended CSCW '23 in Minneapolis</li>
+  <li><strong>July 2023:</strong> Attended ACL '23 in Toronto</li>
+  <li><strong>May 2023:</strong> Pre-candidacy paper proposal approved</li>
+  <li><strong>August 2022:</strong> Started a Ph.D. in Information at the University of Michigan</li>  
+  <ul>
+</details>
 
 {% include_relative _includes/publications.md %}
 
