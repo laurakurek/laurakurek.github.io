@@ -17,7 +17,7 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
 
 ## Updates
 
-- **October 2025:** At [CSCW '25](https://cscw.acm.org/2025/), I will be co-organizing a [workshop](https://cscw2025infodisorder.netlify.app/) on information disorder and preseting a [paper](https://dl.acm.org/doi/10.1145/3711107)!
+- **October 2025:** At [CSCW '25](https://cscw.acm.org/2025/), I am co-organizing a [workshop](https://cscw2025infodisorder.netlify.app/) and presenting a [paper](https://dl.acm.org/doi/10.1145/3711107)!
 - **August 2025:** Poster presentation at [PolNet-PaCSS '25](https://sites.google.com/view/confpolinetworks/)
 - **July 2025:** Poster presentation at [IC2S2 '25](https://ic2s2-2025.org/) 
 - **Dec 2024:** Our paper [Wikipedia in Wartime](https://dl-acm-org.proxy.lib.umich.edu/doi/10.1145/3711107) was accepted into [CSCW '25](https://cscw.acm.org/2025/) 
