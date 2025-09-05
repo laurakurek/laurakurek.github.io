@@ -36,6 +36,7 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
   </ul>
 </details>
 
+<br>
 {% include_relative _includes/publications.md %}
 
 **Other writings:**
