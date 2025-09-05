@@ -33,7 +33,7 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
   <li><strong>July 2023:</strong> Attended ACL '23 in Toronto</li>
   <li><strong>May 2023:</strong> Pre-candidacy paper proposal approved</li>
   <li><strong>August 2022:</strong> Started a Ph.D. in Information at the University of Michigan</li>  
-  <ul>
+  </ul>
 </details>
 
 {% include_relative _includes/publications.md %}
