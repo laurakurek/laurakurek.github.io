@@ -3,13 +3,18 @@ main:
   - title: "Wikipedia in Wartime: Experiences of Wikipedians Maintaining Articles About the Russia-Ukraine War"
     authors: <strong>Laura Kurek</strong>, Ceren Budak, Eric Gilbert
     conference: Proceedings of the ACM on Human-Computer Interaction (CSCW 2025)
-    pdf: https://dl-acm-org.proxy.lib.umich.edu/doi/10.1145/3711107
+    pdf: https://dl.acm.org/doi/10.1145/3711107
 
   - title: "Outsourcing an Information Operation: A Complete Dataset of Tenet Media's Podcasts on Rumble"
     authors: <strong>Laura Kurek</strong>, Eric Gilbert, Ceren Budak
     conference: arXiv preprint arXiv:2503.19802
     pdf: https://arxiv.org/abs/2503.19802
 
+  - title: "Follow Nudges without Budges: A Field Experiment on Misinformation Followers Didn’t Change Follow Networks"
+    authors: <strong>Laura Kurek</strong>, Joshua Ashkinaze, Ceren Budak, Eric Gilbert
+    conference: arXiv preprint forthcoming
+    #pdf: 
+  
   - title: "Seeing Like an AI: How LLMs Apply (and Misapply) Wikipedia Neutrality Norms"
     authors: Joshua Ashkinaze, Ruijia Guan, <strong>Laura Kurek</strong>, Eytan Adar, Ceren Budak, Eric Gilbert
     conference: arXiv preprint arXiv:2407.04183
