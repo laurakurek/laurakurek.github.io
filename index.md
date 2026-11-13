@@ -32,8 +32,10 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
   <li><strong>May 2024:</strong> Workshop paper accepted to <a href="https://wikiworkshop.org/2024/">Wiki Workshop '24</a>, Knowledge Integrity track</li>
   <li><strong>April 2024:</strong> Workshop paper accepted to <a href="https://www.icwsm.org/2024/index.html/">ICWSM '24</a>, Digital Disinfo workshop</li>
   <li><strong>February 2024:</strong> Successfully defended the pre-candidacy milestone</li>
+<details>
 
 <br>
+
 {% include_relative _includes/publications.md %}
 
 **Other writings:**
