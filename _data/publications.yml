@@ -1,5 +1,20 @@
 main:
 
+  - title: "State Media at Retrieval Time: A Large-Scale Audit of Russian State-Aligned Sources in AI Chatbot Responses"
+    authors: <strong>Laura Kurek</strong>,  Elijah Covert, Rafael Bonilla, Eric Gilbert, Ceren Budak,
+    conference: arXiv preprint arXiv:2611.11727
+    pdf: https://arxiv.org/abs/2611.11727
+
+  - title: "Information Discernment in Large Language Models"
+    authors: Joshua Ashkinaze, <strong>Laura Kurek</strong>, Alina Faisal, Tongyuan Miao, Mariam Joseph, Ceren Budak, Eric Gilbert
+    conference: Accepted at NeurIPS 2026
+    pdf: https://arxiv.org/abs/2607.19355
+
+  - title: "Seeing Like an AI: How LLMs Apply (and Misapply) Wikipedia Neutrality Norms"
+    authors: Joshua Ashkinaze, Ruijia Guan, <strong>Laura Kurek</strong>, Eytan Adar, Ceren Budak, Eric Gilbert
+    conference: Proceedings of the International AAAI Conference on Web and Social Media (ICWSM 2026)
+    pdf: https://ojs.aaai.org/index.php/ICWSM/article/view/42630
+  
   - title: "Wikipedia in Wartime: Experiences of Wikipedians Maintaining Articles About the Russia-Ukraine War"
     authors: <strong>Laura Kurek</strong>, Ceren Budak, Eric Gilbert
     conference: Proceedings of the ACM on Human-Computer Interaction (CSCW 2025)
@@ -13,12 +28,9 @@ main:
   - title: "Follow Nudges without Budges: A Field Experiment on Misinformation Followers Didn’t Change Follow Networks"
     authors: <strong>Laura Kurek</strong>, Joshua Ashkinaze, Ceren Budak, Eric Gilbert
     conference: arXiv preprint arXiv:2512.13643
-    pdf: https://arxiv.org/abs/2512.13643
+    pdf: https://arxiv.org/abs/2512.13643  
+
   
-  - title: "Seeing Like an AI: How LLMs Apply (and Misapply) Wikipedia Neutrality Norms"
-    authors: Joshua Ashkinaze, Ruijia Guan, <strong>Laura Kurek</strong>, Eytan Adar, Ceren Budak, Eric Gilbert
-    conference: Proceedings of the International AAAI Conference on Web and Social Media (ICWSM 2026)
-    pdf: https://arxiv.org/abs/2407.04183
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   #   conference_short: CVPR
