@@ -1,7 +1,7 @@
 main:
 
   - title: "State Media at Retrieval Time: A Large-Scale Audit of Russian State-Aligned Sources in AI Chatbot Responses"
-    authors: <strong>Laura Kurek</strong>,  Elijah Covert, Rafael Bonilla, Eric Gilbert, Ceren Budak
+    authors: <strong>Laura Kurek</strong>, Elijah Covert, Rafael Bonilla, Eric Gilbert, Ceren Budak
     conference: arXiv preprint arXiv:2611.11727
     pdf: https://arxiv.org/abs/2611.11727
 
