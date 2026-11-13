@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate advised by [Ceren Budak](https://www.si.umich.edu/people/ceren-budak) and [Eric Gilbert](http://eegilbert.org/) at the University of Michigan in the School of Information. I research information manipulation on the internet using both quantitative and qualitative methods. I work with data from social media platforms (X/Twitter, Rumble, Telegram) as well as peer-production knowledge sites (Wikipedia).
+I am a final year Ph.D. candidate at the University of Michigan in the School of Information, advised by [Ceren Budak](https://www.si.umich.edu/people/ceren-budak) and [Eric Gilbert](http://eegilbert.org/). I research how state actors attempt to manipulate information environments. My current work examines strategic attempts to influence large language models (LLMs) and retrieval-augmented generation (RAG) systems with government-aligned narratives.
 
 Prior to starting my Ph.D., I worked in industry for several years as a data science specialist at Accenture Federal Services. In 2017, I spent a year in the Ural Mountains on a Fulbright Scholarship.
 
-**Research interests:** Social computing, computational social science
+**Research interests:** Information integrity, social computing, computational social science
 
 ## Education
 
@@ -17,18 +17,21 @@ Prior to starting my Ph.D., I worked in industry for several years as a data sci
 
 ## Updates
 
+- **Nov 2026:** New preprint out: [State Media at Retrieval Time: A Large-Scale Audit of Russian State-Aligned Sources in AI Chatbot Responses](https://arxiv.org/abs/2611.11727)
+- **Sept 2026:** Our paper *Information Discernment in Large Language Models* was accepted to [NeurIPS '26](https://neurips.cc/)
+- **May 2026:** Received funding from the [Wikimedia Foundation](https://wikimediafoundation.org/) to study the impact of Ruwiki on Russian-language Wikipedia
 - **October 2025:** At [CSCW '25](https://cscw.acm.org/2025/), I am co-organizing a [workshop](https://cscw2025infodisorder.netlify.app/) and presenting a [paper](https://dl.acm.org/doi/10.1145/3711107)!
 - **August 2025:** Poster presentation at [PolNet-PaCSS '25](https://sites.google.com/view/confpolinetworks/)
 - **July 2025:** Poster presentation at [IC2S2 '25](https://ic2s2-2025.org/) 
 - **Dec 2024:** Our paper [Wikipedia in Wartime](https://dl.acm.org/doi/10.1145/3711107) was accepted into [CSCW '25](https://cscw.acm.org/2025/) 
-- **Oct 2024:** Succesfully defended the field preliminary milestone, advanced to candidacy
-- **June-Aug 2024:** Tech policy internship at the [Center for Democracy and Technology](https://cdt.org/)
-- **May 2024:** Workshop paper accepted to [Wiki Workshop '24](https://wikiworkshop.org/2024/), Knowledge Integrity track
-- **April 2024:** Workshop paper accepted to [ICWSM '24](https://www.icwsm.org/2024/index.html/), Digital Disinfo workshop
-- **February 2024:** Succesfully defended the pre-candancy milestone
 <details>
 <summary><strong>Earlier updates</strong></summary>
   <ul> 
+  <li><strong>Oct 2024:</strong> Successfully defended the field preliminary milestone, advanced to candidacy</li>
+  <li><strong>June-Aug 2024:</strong> Tech policy internship at the <a href="https://cdt.org/">Center for Democracy and Technology</a></li>
+  <li><strong>May 2024:</strong> Workshop paper accepted to <a href="https://wikiworkshop.org/2024/">Wiki Workshop '24</a>, Knowledge Integrity track</li>
+  <li><strong>April 2024:</strong> Workshop paper accepted to <a href="https://www.icwsm.org/2024/index.html/">ICWSM '24</a>, Digital Disinfo workshop</li>
+  <li><strong>February 2024:</strong> Successfully defended the pre-candidacy milestone</li>
   <li><strong>October 2023:</strong> Attended CSCW '23 in Minneapolis</li>
   <li><strong>July 2023:</strong> Attended ACL '23 in Toronto</li>
   <li><strong>May 2023:</strong> Pre-candidacy paper proposal approved</li>
