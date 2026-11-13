@@ -13,7 +13,7 @@ Prior to my Ph.D., I worked in industry for several years as a data science spec
 ## Education
 
 - Ph.D. in **Information**, [School of Information](https://www.si.umich.edu/), [University of Michigan](https://umich.edu/), 2027 _(expected)_
-- B.S. in **Science, Technology, & International Affairs**, [Georgetown University](https://www.georgetown.edu/), 2016
+- B.S. in **Science, Technology, & International Affairs**, [Georgetown University](https://www.georgetown.edu/)
 
 ## Updates
 
