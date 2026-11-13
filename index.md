@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final year Ph.D. candidate at the University of Michigan School of Information. I research how state actors attempt to manipulate information environments. My current work examines strategic attempts to influence large language models (LLMs) and retrieval-augmented generation (RAG) systems with government-aligned narratives. I am advised by [Ceren Budak](https://www.si.umich.edu/people/ceren-budak) and [Eric Gilbert](http://eegilbert.org/).
+I am a final-year Ph.D. candidate at the University of Michigan School of Information. I research how state actors attempt to manipulate information environments. My current work examines strategic attempts to influence large language models (LLMs) and retrieval-augmented generation (RAG) systems with government-aligned narratives. I am advised by [Ceren Budak](https://www.si.umich.edu/people/ceren-budak) and [Eric Gilbert](http://eegilbert.org/).
 
 Prior to starting my Ph.D., I worked in industry for several years as a data science specialist at Accenture Federal Services. In 2017, I spent a year in the Ural Mountains on a Fulbright Scholarship.
 
