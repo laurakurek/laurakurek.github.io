@@ -6,9 +6,9 @@ email: lkurek (at) umich.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Laura Kurek, information integrity, information operations, LLM auditing, AI auditing, Wikipedia, computational social science
+description: Laura Kurek is a Ph.D. candidate at the University of Michigan School of Information researching how state actors manipulate information environments, including LLMs and RAG systems.
+canonical: https://laurakurek.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -30,7 +30,7 @@ enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
