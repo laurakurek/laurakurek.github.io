@@ -17,8 +17,8 @@ Prior to my Ph.D., I worked in industry for several years as a data science spec
 
 ## Updates
 
-- **Nov 2026:** New preprint out: [State Media at Retrieval Time: A Large-Scale Audit of Russian State-Aligned Sources in AI Chatbot Responses](https://arxiv.org/abs/2611.11727)
-- **Sept 2026:** Our paper *Information Discernment in Large Language Models* was accepted to [NeurIPS '26](https://neurips.cc/)
+- **November 2026:** New preprint out: [State Media at Retrieval Time: A Large-Scale Audit of Russian State-Aligned Sources in AI Chatbot Responses](https://arxiv.org/abs/2611.11727)
+- **September 2026:** Our paper *Information Discernment in Large Language Models* was accepted to [NeurIPS '26](https://neurips.cc/)
 - **May 2026:** Awarded a [Wikimedia Research Fund](https://research.wikimedia.org/) grant to study the impact of Ruwiki on Russian-language Wikipedia
 - **October 2025:** At [CSCW '25](https://cscw.acm.org/2025/), I co-organized a [workshop](https://cscw2025infodisorder.netlify.app/) and presented a [paper](https://dl.acm.org/doi/10.1145/3711107)!
 <details>
@@ -26,9 +26,9 @@ Prior to my Ph.D., I worked in industry for several years as a data science spec
   <ul> 
   <li><strong>August 2025:</strong> Poster presentation at <a href="https://sites.google.com/view/confpolinetworks/">PolNet-PaCSS '25</a></li>
   <li><strong>July 2025:</strong> Poster presentation at <a href="https://ic2s2-2025.org/">IC2S2 '25</a></li>
-  <li><strong>Dec 2024:</strong> Our paper <a href="https://dl.acm.org/doi/10.1145/3711107">Wikipedia in Wartime</a> was accepted into <a href="https://cscw.acm.org/2025/">CSCW '25</a></li>
-  <li><strong>Oct 2024:</strong> Successfully defended the field preliminary milestone, advanced to candidacy</li>
-  <li><strong>June-Aug 2024:</strong> Tech policy internship at the <a href="https://cdt.org/">Center for Democracy and Technology</a></li>
+  <li><strong>December 2024:</strong> Our paper <a href="https://dl.acm.org/doi/10.1145/3711107">Wikipedia in Wartime</a> was accepted into <a href="https://cscw.acm.org/2025/">CSCW '25</a></li>
+  <li><strong>October 2024:</strong> Successfully defended the field preliminary milestone, advanced to candidacy</li>
+  <li><strong>June-August 2024:</strong> Tech policy internship at the <a href="https://cdt.org/">Center for Democracy and Technology</a></li>
   <li><strong>May 2024:</strong> Workshop paper accepted to <a href="https://wikiworkshop.org/2024/">Wiki Workshop '24</a>, Knowledge Integrity track</li>
   <li><strong>April 2024:</strong> Workshop paper accepted to <a href="https://www.icwsm.org/2024/index.html/">ICWSM '24</a>, Digital Disinfo workshop</li>
   <li><strong>February 2024:</strong> Successfully defended the pre-candidacy milestone</li>
